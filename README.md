@@ -1,1 +1,1 @@
-# sanmaru-co
+# template-full-banner-wipe

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-01-28T00:29:19.878Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-01-28T01:06:12.208Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -72,7 +72,36 @@
         "description": "객실 내 개별적으로 이용 가능한 자쿠지입니다.",
         "usageGuide": "[실내 자쿠지(미니수영장)]\n- 온수 이용료 30,000원 (사전예약필수, 입실전까지), 7-8월 온수 무료\n- 온수 이용시간 : 입실 후 ~ 23:00\n- 실내 자쿠지(미니수영장) 크기 :\n > 101호 - 2m50cm(가로) x 1m70cm(세로) x 80cm(깊이)\n > 102호 - 2m60cm(가로) x 1m70cm(세로) x 80cm(깊이)\n > 201호 - 2m70cm(가로) x 1m60cm(세로) x 90cm(깊이)\n※ 입욕제 사용 금지, 스파기능 없습니다.\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용",
         "displayOrder": 0,
-        "images": []
+        "images": [
+          {
+            "id": "f56c2e09-c42b-46a9-a3ee-4c673110b426",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/466d748e-3e2a-45d4-856e-1b0f89371244/main/1769560578780-4air9tyscru.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e4304933-fbae-4892-a1de-99e3813bdfbb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/466d748e-3e2a-45d4-856e-1b0f89371244/main/1769560578780-mi4o6pxhi0b.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2b24fc51-7069-4969-8803-9bd26c78c5a9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/466d748e-3e2a-45d4-856e-1b0f89371244/main/1769560578780-qsawckw9wp.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "d2e44110-cd54-4675-84e4-bf9bf8750a01",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/466d748e-3e2a-45d4-856e-1b0f89371244/main/1769560578780-9dbsd2y52c.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "f1685864-3fc2-4507-a5b9-b8511f197aa5",
@@ -84,11 +113,47 @@
       },
       {
         "id": "8c77e9cd-19aa-4fcc-95a0-f2608dd11d02",
-        "name": "개별바베",
+        "name": "개별바베큐",
         "description": "객실 테라스에서 즐기는 개별 바베큐 파티\n",
         "usageGuide": "[개별바비큐]\n- 숯&불판 : 20,000원 (현장결제) \n※ 입실시 미리 사용 시간 말씀해주세요.\n",
         "displayOrder": 2,
-        "images": []
+        "images": [
+          {
+            "id": "fe973e13-60e4-4e55-9987-43a2719c06ae",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8c77e9cd-19aa-4fcc-95a0-f2608dd11d02/main/1769560580301-eevtpjamj4.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "d78afb77-3958-4292-a158-79a6e05eb64e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8c77e9cd-19aa-4fcc-95a0-f2608dd11d02/main/1769560580302-tn9zaad7gxk.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "03c214e9-5ae3-457f-8332-fd92fe399e8c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8c77e9cd-19aa-4fcc-95a0-f2608dd11d02/main/1769560580301-mjb48wgd7vi.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e7f2eb2b-3541-4709-9677-9b2b34a3f7c1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8c77e9cd-19aa-4fcc-95a0-f2608dd11d02/main/1769560580303-y8cc3xwef0f.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "687541bb-61cb-4dc8-995e-1d5a14b438b2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8c77e9cd-19aa-4fcc-95a0-f2608dd11d02/main/1769560580301-fevqmbv67tk.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "7278b78c-7b82-4885-9a4c-9b8830d2bf51",
@@ -322,7 +387,7 @@
       }
     ],
     "seo": {
-      "title": "",
+      "title": "경주 산마루",
       "description": "",
       "keywords": ""
     },
@@ -334,19 +399,130 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "2da7a13d-f4dd-4690-a568-7a3bce54b43b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-1y2zejpz2pc.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "787b8821-9adb-4a6e-b502-766a1694ecd9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-b4evn5562od.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "ae35acbc-75b3-481d-b9a4-91b5c3135e51",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-kgtvgy0ni7.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "aba26972-5701-4b95-8f16-a79a8b8b679c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-3dz5uo5pnw7.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "67f47af0-8864-4189-afa9-9d33c82324cb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-d8687cfkyuu.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "62235348-1de3-4b75-95d6-a746705364c4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-qub3vi6p8i.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "closing": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "c4266c32-e0ac-44d9-ae8d-b876dcda976e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_closing/1769562342940-hkrgczuhl3.jpg",
+                    "sortOrder": 15,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": " "
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "개별 수영장",
+                "images": [
+                  {
+                    "id": "bf054c9f-c181-4111-a2ba-d033774c3db8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_essence/1769562342939-xc9db53d5y.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "a604fbca-7715-4b1f-87f2-0eda6451a8ba",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_essence/1769562342939-aqmraj4yt2c.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4481021b-be51-4410-ac10-64052cd941ff",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_essence/1769562342939-31qjsq8pucl.jpg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "객실 안에서 즐기는 개별 수영장\n프라이빗한 공간에서 오롯이 누리는 휴식"
               },
               "gallery": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "8153478c-e90a-45c7-b124-34a5e8ba1323",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-sybc3uvzh8.jpg",
+                    "sortOrder": 1,
+                    "description": "실내수영장",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "cdf73198-4b20-4783-9144-7a52dc3d781b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-fexonz35o4g.jpg",
+                    "sortOrder": 2,
+                    "description": "객실내부",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "bdc18162-4cb6-454d-acb3-b3e9a99322a3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-ufirg4x0xmp.jpg",
+                    "sortOrder": 3,
+                    "description": "바베큐장",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3f23ae37-98e6-4702-9f8a-3ea0d6986066",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-k8uuu42umth.jpg",
+                    "sortOrder": 4,
+                    "description": "내부식당",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5aad3e37-cd31-4a84-8007-fcf7831f6634",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-4l411t2ru8e.jpg",
+                    "sortOrder": 10,
+                    "description": "개별테라스",
+                    "isSelected": true
+                  }
+                ]
               },
               "signature": {
                 "title": "",
@@ -398,10 +574,20 @@
           ]
         }
       },
+      "theme": {
+        "font": {
+          "koSub": null,
+          "enMain": null,
+          "koMain": null
+        },
+        "color": {
+          "primary": "#F5F4F1",
+          "secondary": "#B05C4F"
+        }
+      },
       "popup": {
         "popups": []
       },
-      "theme": null,
       "property": {
         "images": []
       },
@@ -971,7 +1157,6 @@
           ]
         }
       ]
-    },
-    "id": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
+    }
   }
 }
