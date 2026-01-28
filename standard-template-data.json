@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-01-28T01:43:28.240Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-01-28T01:55:58.256Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -105,7 +105,7 @@
       },
       {
         "id": "f1685864-3fc2-4507-a5b9-b8511f197aa5",
-        "name": "개별수영장",
+        "name": "야외수영장(201호)",
         "description": "개별 야외수영장에서 물놀이를 즐겨보세요. \n※ 201호 투숙객만 이용 가능",
         "usageGuide": "[야외수영장]\n- 201호 투숙객만 사용 가능\n- 하절기 운영 (설정된 기간만 운영)\n- 이용시간 : 제한은 없으나 늦은 시간 혹은 음주 후 사용은 금해주세요.\n- 이용복장 : 편한복장 및 수영복\n- 수영장은 냉수만 사용가능\n※ 다이빙 금지\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용",
         "displayOrder": 1,
@@ -538,11 +538,19 @@
             {
               "hero": {
                 "title": " ",
-                "images": []
+                "images": [
+                  {
+                    "id": "24751659-f6c2-432c-ae9c-26bbb44c4f7d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/directions_hero/1769565352704-cvcxarma36t.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": " ",
+                "description": " "
               }
             }
           ]
@@ -658,7 +666,7 @@
           {
             "id": "027775fb-5b0d-419a-860c-0679d792e1bb",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/property_thumbnail/1769563535721-pbj5t0kz2ee.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "category": "property_thumbnail"
