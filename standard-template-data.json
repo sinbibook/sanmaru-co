@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-01-28T01:14:46.932Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-01-28T01:18:07.232Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -398,7 +398,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " 자연 위에 머무는 쉼, 산마루",
                 "images": [
                   {
                     "id": "2da7a13d-f4dd-4690-a568-7a3bce54b43b",
@@ -442,7 +442,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "closing": {
                 "title": " ",
@@ -485,13 +486,13 @@
                 "description": "객실 안에서 즐기는 개별 수영장\n프라이빗한 공간에서 오롯이 누리는 휴식"
               },
               "gallery": {
-                "title": "",
+                "title": "About Sanmaru",
                 "images": [
                   {
-                    "id": "8153478c-e90a-45c7-b124-34a5e8ba1323",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-sybc3uvzh8.jpg",
+                    "id": "5aad3e37-cd31-4a84-8007-fcf7831f6634",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-4l411t2ru8e.jpg",
                     "sortOrder": 0,
-                    "description": "실내수영장",
+                    "description": "개별테라스",
                     "isSelected": true
                   },
                   {
@@ -502,27 +503,28 @@
                     "isSelected": true
                   },
                   {
+                    "id": "8153478c-e90a-45c7-b124-34a5e8ba1323",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-sybc3uvzh8.jpg",
+                    "sortOrder": 2,
+                    "description": "실내수영장",
+                    "isSelected": true
+                  },
+                  {
                     "id": "bdc18162-4cb6-454d-acb3-b3e9a99322a3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-ufirg4x0xmp.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "바베큐장",
                     "isSelected": true
                   },
                   {
                     "id": "3f23ae37-98e6-4702-9f8a-3ea0d6986066",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-k8uuu42umth.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "내부식당",
                     "isSelected": true
-                  },
-                  {
-                    "id": "5aad3e37-cd31-4a84-8007-fcf7831f6634",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-4l411t2ru8e.jpg",
-                    "sortOrder": 4,
-                    "description": "개별테라스",
-                    "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "signature": {
                 "title": "",
@@ -565,7 +567,15 @@
             {
               "hero": {
                 "title": "",
-                "images": [],
+                "images": [
+                  {
+                    "id": "21eed852-8766-4a24-867c-544c637d4558",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/main_hero/1769563082272-jvumkjzms9.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
                 "description": "경주의 자연을 가장 조용하게 만날 수 있는 곳,\n도심의 소음에서 벗어나 여유로운 휴식을 찾는 분들께 잘 어울리는 공간입니다.\n산 전망이 펼쳐지는 객실에서 하루의 속도를 천천히 내려보세요.\n자연의 빛과 바람이 머무는 동안을 더욱 편안하게 만들어줍니다.\n프라이빗한 공간에서 온전히 나에게 집중하는 시간을 경험하실 수 있습니다.\n복잡한 일정 없이도 충분히 만족스러운 하루가 완성됩니다.\n사랑하는 사람과 함께 머물기 좋은 조용한 분위기를 갖추고 있습니다.\n휴식이 필요할 때 부담 없이 찾을 수 있는 경주의 숙소입니다.\n머무는 순간마다 마음이 가벼워지는 경험을 선사합니다.\n지금, 경주 산마루에서 진짜 쉼을 만나보세요."
               },
               "about": [
@@ -605,7 +615,7 @@
                   {
                     "id": "0d76055c-f181-401e-8044-3c086838f24c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/reservation_hero/1769562873976-2jgl7ndzb35.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
@@ -617,7 +627,7 @@
                   {
                     "id": "d770a361-e313-45f4-bf2e-6f191366bf0b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/reservation_about/1769562873976-f206g8xzdo.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
@@ -636,7 +646,7 @@
         },
         "color": {
           "primary": "#F5F4F1",
-          "secondary": "#B05C4F"
+          "secondary": "#723F37"
         }
       },
       "popup": {
