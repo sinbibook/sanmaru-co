@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-01-29T06:01:29.236Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-01-29T07:00:41.300Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -98,71 +98,6 @@
             "id": "d2e44110-cd54-4675-84e4-bf9bf8750a01",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/466d748e-3e2a-45d4-856e-1b0f89371244/main/1769560578780-9dbsd2y52c.jpg",
             "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          }
-        ]
-      },
-      {
-        "id": "f1685864-3fc2-4507-a5b9-b8511f197aa5",
-        "name": "야외수영장(201호)",
-        "description": "개별 야외수영장에서 물놀이를 즐겨보세요. \n※ 201호 투숙객만 이용 가능",
-        "usageGuide": "[야외수영장]\n- 201호 투숙객만 사용 가능\n- 하절기 운영 (설정된 기간만 운영)\n- 이용시간 : 제한은 없으나 늦은 시간 혹은 음주 후 사용은 금해주세요.\n- 이용복장 : 편한복장 및 수영복\n- 수영장은 냉수만 사용가능\n※ 다이빙 금지\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용",
-        "displayOrder": 1,
-        "images": [
-          {
-            "id": "c7acda41-8381-41a9-b525-00b30d0770c6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f1685864-3fc2-4507-a5b9-b8511f197aa5/main/1769659808588-ea65lt4kf8l.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "c5c45a03-544e-4d64-a166-d39a40d740f7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f1685864-3fc2-4507-a5b9-b8511f197aa5/main/1769659808588-d0aayuezlws.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "1e7255af-f01f-46f1-aa20-90f364f5990f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f1685864-3fc2-4507-a5b9-b8511f197aa5/main/1769659808588-gdxc2m805kh.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "57c87e37-e14b-4d67-aa45-5ec139e2ef0f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f1685864-3fc2-4507-a5b9-b8511f197aa5/main/1769659808641-1eexhhbqqzg.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "ecb08def-6aa2-4671-a558-35ed9256579f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f1685864-3fc2-4507-a5b9-b8511f197aa5/main/1769659808585-veljz3twa8.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "c6121d10-8ce9-4f04-bddc-140079d44ea7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f1685864-3fc2-4507-a5b9-b8511f197aa5/main/1769659808640-sz7v2xy9thp.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "9ab250dd-1253-4c3f-8fc0-c63d91b3619d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f1685864-3fc2-4507-a5b9-b8511f197aa5/main/1769659808640-nhbth8gww8.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "3adaba7c-4d52-4ff1-9418-6d73bf5db637",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f1685864-3fc2-4507-a5b9-b8511f197aa5/main/1769659808640-cneamizb1wo.jpg",
-            "sortOrder": 7,
             "description": "",
             "isSelected": true
           }
