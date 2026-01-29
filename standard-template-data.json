@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-01-28T03:06:41.403Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-01-29T05:11:36.123Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -68,8 +68,8 @@
     "facilities": [
       {
         "id": "466d748e-3e2a-45d4-856e-1b0f89371244",
-        "name": "실내 자쿠지",
-        "description": "객실 내 개별적으로 이용 가능한 자쿠지입니다.",
+        "name": "실내 자쿠지(미니수영장)",
+        "description": "객실 내 개별적으로 이용 가능한 자쿠지 수영장입니다.",
         "usageGuide": "[실내 자쿠지(미니수영장)]\n- 온수 이용료 30,000원 (사전예약필수, 입실전까지), 7-8월 온수 무료\n- 온수 이용시간 : 입실 후 ~ 23:00\n- 실내 자쿠지(미니수영장) 크기 :\n > 101호 - 2m50cm(가로) x 1m70cm(세로) x 80cm(깊이)\n > 102호 - 2m60cm(가로) x 1m70cm(세로) x 80cm(깊이)\n > 201호 - 2m70cm(가로) x 1m60cm(세로) x 90cm(깊이)\n※ 입욕제 사용 금지, 스파기능 없습니다.\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용",
         "displayOrder": 0,
         "images": [
@@ -104,14 +104,6 @@
         ]
       },
       {
-        "id": "f1685864-3fc2-4507-a5b9-b8511f197aa5",
-        "name": "야외수영장(201호)",
-        "description": "개별 야외수영장에서 물놀이를 즐겨보세요. \n※ 201호 투숙객만 이용 가능",
-        "usageGuide": "[야외수영장]\n- 201호 투숙객만 사용 가능\n- 하절기 운영 (설정된 기간만 운영)\n- 이용시간 : 제한은 없으나 늦은 시간 혹은 음주 후 사용은 금해주세요.\n- 이용복장 : 편한복장 및 수영복\n- 수영장은 냉수만 사용가능\n※ 다이빙 금지\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용",
-        "displayOrder": 1,
-        "images": []
-      },
-      {
         "id": "8c77e9cd-19aa-4fcc-95a0-f2608dd11d02",
         "name": "개별바베큐",
         "description": "객실 테라스에서 즐기는 개별 바베큐 파티\n",
@@ -133,9 +125,9 @@
             "isSelected": true
           },
           {
-            "id": "03c214e9-5ae3-457f-8332-fd92fe399e8c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8c77e9cd-19aa-4fcc-95a0-f2608dd11d02/main/1769560580301-mjb48wgd7vi.jpg",
-            "sortOrder": 2,
+            "id": "687541bb-61cb-4dc8-995e-1d5a14b438b2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8c77e9cd-19aa-4fcc-95a0-f2608dd11d02/main/1769560580301-fevqmbv67tk.jpg",
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           },
@@ -147,9 +139,9 @@
             "isSelected": true
           },
           {
-            "id": "687541bb-61cb-4dc8-995e-1d5a14b438b2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8c77e9cd-19aa-4fcc-95a0-f2608dd11d02/main/1769560580301-fevqmbv67tk.jpg",
-            "sortOrder": 0,
+            "id": "03c214e9-5ae3-457f-8332-fd92fe399e8c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8c77e9cd-19aa-4fcc-95a0-f2608dd11d02/main/1769560580301-mjb48wgd7vi.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true
           }
@@ -401,43 +393,43 @@
                 "title": " 자연 위에 머무는 쉼, 산마루",
                 "images": [
                   {
-                    "id": "2da7a13d-f4dd-4690-a568-7a3bce54b43b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-1y2zejpz2pc.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "787b8821-9adb-4a6e-b502-766a1694ecd9",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-b4evn5562od.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "ae35acbc-75b3-481d-b9a4-91b5c3135e51",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-kgtvgy0ni7.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "aba26972-5701-4b95-8f16-a79a8b8b679c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-3dz5uo5pnw7.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "67f47af0-8864-4189-afa9-9d33c82324cb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-d8687cfkyuu.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "62235348-1de3-4b75-95d6-a746705364c4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-qub3vi6p8i.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "2da7a13d-f4dd-4690-a568-7a3bce54b43b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-1y2zejpz2pc.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "787b8821-9adb-4a6e-b502-766a1694ecd9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-b4evn5562od.jpg",
                     "sortOrder": 5,
                     "description": "",
                     "isSelected": true
@@ -459,7 +451,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "개별 수영장",
+                "title": "자쿠지 수영장",
                 "images": [
                   {
                     "id": "bf054c9f-c181-4111-a2ba-d033774c3db8",
@@ -483,7 +475,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "객실 안에서 즐기는 개별 수영장\n프라이빗한 공간에서 오롯이 누리는 휴식"
+                "description": "객실 안에서 즐기는 개별 자쿠지 수영장\n프라이빗한 공간에서 오롯이 누리는 휴식"
               },
               "gallery": {
                 "title": "About Sanmaru",
@@ -562,16 +554,9 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "21eed852-8766-4a24-867c-544c637d4558",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/main_hero/1769563082272-jvumkjzms9.jpg",
+                    "id": "f9e6708b-958a-4147-87ec-3002fb1a6502",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/main_hero/1769663484518-skkaybujhrs.jpg",
                     "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "8a142539-bfc4-4493-a1b7-3ac775f3acb6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/main_hero/1769563137397-yw33jteoin8.jpg",
-                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   }
@@ -613,7 +598,53 @@
             }
           ]
         },
-        "room": [],
+        "room": [
+          {
+            "id": "da5ee728-a0a5-45b7-b790-0907d4f43fa3",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "f40f99e5-c588-46b1-8d2c-a31b74c09fad",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "ff84e2bc-fbb1-4ba0-95cc-58ea7eed64e0",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          }
+        ],
         "facility": [],
         "reservation": {
           "sections": [
@@ -649,9 +680,19 @@
       },
       "theme": {
         "font": {
-          "koSub": null,
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
           "enMain": null,
-          "koMain": null
+          "koMain": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          }
         },
         "color": {
           "primary": "#F5F4F1",
@@ -1327,6 +1368,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
   }
 }
