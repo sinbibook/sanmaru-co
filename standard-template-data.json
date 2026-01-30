@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-01-29T07:00:41.300Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-01-30T05:40:19.617Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -44,11 +44,11 @@
       "businessNumber": "768-01-01849",
       "representativeName": "백경숙",
       "businessAddress": "경상북도 경주시 양남면 동남로 584",
-      "businessPhone": "",
-      "businessEmail": "",
-      "businessType": "",
-      "businessCategory": "",
-      "eCommerceRegistrationNumber": ""
+      "businessPhone": "010-2942-3658",
+      "businessEmail": "whmrdw36@naver.com",
+      "businessType": "individual",
+      "businessCategory": "숙박",
+      "eCommerceRegistrationNumber": "신고-1628"
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -153,7 +153,15 @@
         "description": "펜션 제공 서비스입니다.",
         "usageGuide": "[서비스]\n- 투숙객 1인당 카페 음료 1잔씩 무료 제공\n\n[편의시설]\n- IPTV/WiFi\n- OTT (개인계정)\n- 상비약",
         "displayOrder": 3,
-        "images": []
+        "images": [
+          {
+            "id": "18c045cd-405a-4f1f-95b9-a5b135e42eee",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7278b78c-7b82-4885-9a4c-9b8830d2bf51/main/1769751609213-udfzmfbbmfg.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
