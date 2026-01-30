@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-01-30T05:48:35.400Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-01-30T05:52:37.942Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -155,23 +155,23 @@
         "displayOrder": 3,
         "images": [
           {
-            "id": "18c045cd-405a-4f1f-95b9-a5b135e42eee",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7278b78c-7b82-4885-9a4c-9b8830d2bf51/main/1769751609213-udfzmfbbmfg.png",
+            "id": "ecf53731-f2c7-4685-9dd3-1402a15ed223",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7278b78c-7b82-4885-9a4c-9b8830d2bf51/main/1769752344965-jn6xqcr1ea.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "565d9eee-a934-4d41-ac5f-1ba894358e6a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7278b78c-7b82-4885-9a4c-9b8830d2bf51/main/1769752344964-x0g2ewngdrq.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
           },
           {
-            "id": "4c9ea680-36a5-4914-9b58-0345edad4cf2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7278b78c-7b82-4885-9a4c-9b8830d2bf51/main/1769751882590-n0n9el7dqzk.png",
+            "id": "0f8af7bb-6dc1-4832-9e06-80bc82c62fc2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7278b78c-7b82-4885-9a4c-9b8830d2bf51/main/1769752344965-6xg333oj63i.jpg",
             "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "8891798a-ed4e-4f5b-96e4-7b5f694f8fec",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7278b78c-7b82-4885-9a4c-9b8830d2bf51/main/1769751882590-x8cimhptjpo.jpg",
-            "sortOrder": 1,
             "description": "",
             "isSelected": true
           }
