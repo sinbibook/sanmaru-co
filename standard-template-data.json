@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-02-02T03:38:07.945Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-02-02T03:43:36.564Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -745,7 +745,12 @@
             "woff2": null,
             "family": "Pretendard"
           },
-          "enMain": null,
+          "enMain": {
+            "cdn": "https://fonts.cdnfonts.com/css/gloock-2",
+            "key": "gloock",
+            "woff2": null,
+            "family": "Gloock"
+          },
           "koMain": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
             "key": "pretendard",
@@ -1427,6 +1432,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
   }
 }
