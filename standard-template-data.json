@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-01-30T05:54:03.209Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-02-02T03:37:10.362Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -172,6 +172,43 @@
             "id": "0f8af7bb-6dc1-4832-9e06-80bc82c62fc2",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7278b78c-7b82-4885-9a4c-9b8830d2bf51/main/1769752344965-6xg333oj63i.jpg",
             "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
+        "id": "9f5adc9f-28c9-4038-b47f-1c9e9e513381",
+        "name": "산마루 식당",
+        "description": "펜션 내 식당이 있습니다. ",
+        "usageGuide": "[펜션 내 식당]\n- 펜션 1층에 식당이 있습니다. (김밥, 국수 등 식사 판매)",
+        "displayOrder": 4,
+        "images": [
+          {
+            "id": "222a5f18-7db4-4708-8ef2-f6c88f5c95aa",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9f5adc9f-28c9-4038-b47f-1c9e9e513381/main/1770003416962-vnjw73p9hj.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "62646452-b9fc-4db7-9167-7ae5cc82db12",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9f5adc9f-28c9-4038-b47f-1c9e9e513381/main/1770003416963-o07bv73dl6.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2437d93e-05e0-46c8-8a92-053776785975",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9f5adc9f-28c9-4038-b47f-1c9e9e513381/main/1770003416962-eddy0cumnso.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "0f840adb-a83e-4643-8a79-e570aa9cf138",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9f5adc9f-28c9-4038-b47f-1c9e9e513381/main/1770003416963-12qavfgob8dp.jpg",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           }
