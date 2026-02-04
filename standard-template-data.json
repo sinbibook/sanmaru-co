@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-02-02T03:49:28.606Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-02-04T04:04:26.194Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -273,7 +273,7 @@
     "nameEn": "Gyeongju Sanmaru Pension",
     "domain": "sanmaru.co.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10493",
-    "ybsId": ""
+    "ybsId": "69153"
   },
   "rooms": [
     {
@@ -1432,6 +1432,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
   }
 }
