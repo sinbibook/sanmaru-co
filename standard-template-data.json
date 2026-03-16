@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-02-04T04:04:26.194Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-03-16T08:45:29.202Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -264,8 +264,87 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "d7647eb9-4c8b-46fa-939d-c24e1f0ddd55",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/thumbnail/1773122556403-4nen9743l49.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "11ba9518-b8f9-4e5a-806a-c39dcc73a3d8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/exterior/1773123785264-dcph4yx8bu.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "bbf8e26a-a64b-4d5e-a9d1-8c3c6b9d2e44",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/exterior/1773123785264-ocwkeenhsos.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8ef62bcf-e080-423e-a594-9da658750653",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/exterior/1773123785263-2sa7hz7mnpy.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8149e846-3840-4ffa-a0d3-af74f56bedd7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/exterior/1773123785263-zj6ukpagph9.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "bec94750-7a7a-4ee3-8c39-989d9feee0ef",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/exterior/1773123785264-gdhczbv2v35.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2c4537ff-e897-4b47-824c-386e3005597c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/exterior/1773123785263-ys0zqr5be1i.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "752078e2-895f-4f74-8db4-03165e2d24ae",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/exterior/1773123785264-b37b9vi12qe.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a9f93234-f16c-4e21-a55e-24c36cbc8af4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/exterior/1773123785264-ugj2el5xu9p.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3c5dbeca-3e05-484f-8baa-6d242ed0c371",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/exterior/1773123785264-9gf0l1ttrwg.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f808c817-d22d-4747-8d7e-202082e42e33",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/12be12c5-1cc7-465c-bded-52c01506616b/exterior/1773123785264-yr25pgu1jla.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
@@ -281,6 +360,7 @@
       "name": "101호(자쿠지수영장)",
       "description": "분리형 : 침대룸+거실 겸 주방+자쿠지+화장실+테라스",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 추가요금: 24개월 이상 1인당 20,000원 (현장결제)\n※ 24개월 미만 인원수에 포함\n※ 숙박외 방문객도 추가요금 발생 (1인당 10,000원)\n",
+      "usageGuide": "[인원추가(1박기준/현장결제)]\n- 추가요금: 24개월 이상 1인당 20,000원 (현장결제)\n※ 24개월 미만 인원수에 포함\n※ 숙박외 방문객도 추가요금 발생 (1인당 10,000원)\n",
       "group": "101호(자쿠지수영장)",
       "size": 46,
       "baseOccupancy": 2,
@@ -332,6 +412,7 @@
       "name": "102호(자쿠지수영장)",
       "description": "분리형 : 침대룸+거실 겸 주방+자쿠지+화장실+테라스",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 추가요금: 24개월 이상 1인당 20,000원 (현장결제)\n※ 24개월 미만 인원수에 포함\n※ 숙박외 방문객도 추가요금 발생 (1인당 10,000원)\n",
+      "usageGuide": "[인원추가(1박기준/현장결제)]\n- 추가요금: 24개월 이상 1인당 20,000원 (현장결제)\n※ 24개월 미만 인원수에 포함\n※ 숙박외 방문객도 추가요금 발생 (1인당 10,000원)\n",
       "group": "102호(자쿠지수영장)",
       "size": 59,
       "baseOccupancy": 2,
@@ -382,6 +463,7 @@
       "name": "201호(자쿠지,개별야외수영장)",
       "description": "분리형 : 침대룸+거실 겸 주방+자쿠지+화장실2+테라스(야외수영장)",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 추가요금: 24개월 이상 1인당 20,000원 (현장결제)\n※ 24개월 미만 인원수에 포함\n※ 숙박외 방문객도 추가요금 발생 (1인당 10,000원)\n",
+      "usageGuide": "[인원추가(1박기준/현장결제)]\n- 추가요금: 24개월 이상 1인당 20,000원 (현장결제)\n※ 24개월 미만 인원수에 포함\n※ 숙박외 방문객도 추가요금 발생 (1인당 10,000원)\n",
       "group": "201호(자쿠지,개별야외수영장)",
       "size": 66,
       "baseOccupancy": 4,
@@ -1432,7 +1514,6 @@
           ]
         }
       ]
-    },
-    "id": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
+    }
   }
 }
