@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.28.0",
-    "generatedAt": "2026-04-24T07:14:11.100Z",
+    "version": "1.29.0",
+    "generatedAt": "2026-04-27T09:36:21.442Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -665,51 +665,51 @@
                 "title": " 자연 위에 머무는 쉼, 산마루",
                 "images": [
                   {
+                    "id": "787b8821-9adb-4a6e-b502-766a1694ecd9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-b4evn5562od.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "ae35acbc-75b3-481d-b9a4-91b5c3135e51",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-kgtvgy0ni7.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "aba26972-5701-4b95-8f16-a79a8b8b679c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-3dz5uo5pnw7.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "67f47af0-8864-4189-afa9-9d33c82324cb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-d8687cfkyuu.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "62235348-1de3-4b75-95d6-a746705364c4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-qub3vi6p8i.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "2da7a13d-f4dd-4690-a568-7a3bce54b43b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-1y2zejpz2pc.jpg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "787b8821-9adb-4a6e-b502-766a1694ecd9",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-b4evn5562od.jpg",
                     "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": " ",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               },
               "closing": {
                 "title": " ",
@@ -722,9 +722,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " ",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               },
               "essence": {
                 "title": "자쿠지 수영장",
@@ -751,9 +751,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "객실 안에서 즐기는 개별 자쿠지 수영장\n프라이빗한 공간에서 오롯이 누리는 휴식",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "객실 안에서 즐기는 개별 자쿠지 수영장\n프라이빗한 공간에서 오롯이 누리는 휴식"
               },
               "gallery": {
                 "title": "About Sanmaru",
@@ -794,15 +794,15 @@
                     "isSelected": true
                   }
                 ],
-                "description": "경주 산마루의 객실 분위기와 부대시설을 한눈에 살펴보세요.",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "경주 산마루의 객실 분위기와 부대시설을 한눈에 살펴보세요."
               },
               "signature": {
                 "title": "",
                 "images": [],
-                "mediaType": "image",
-                "videos": []
+                "videos": [],
+                "mediaType": "image"
               }
             }
           ]
