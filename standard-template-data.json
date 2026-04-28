@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-04-27T09:36:21.442Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-04-28T00:38:04.637Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -759,38 +759,38 @@
                 "title": "About Sanmaru",
                 "images": [
                   {
-                    "id": "5aad3e37-cd31-4a84-8007-fcf7831f6634",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-4l411t2ru8e.jpg",
-                    "sortOrder": 0,
-                    "description": "개별테라스",
-                    "isSelected": true
-                  },
-                  {
                     "id": "cdf73198-4b20-4783-9144-7a52dc3d781b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-fexonz35o4g.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "객실내부",
                     "isSelected": true
                   },
                   {
                     "id": "8153478c-e90a-45c7-b124-34a5e8ba1323",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-sybc3uvzh8.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "실내수영장",
                     "isSelected": true
                   },
                   {
                     "id": "bdc18162-4cb6-454d-acb3-b3e9a99322a3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-ufirg4x0xmp.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "바베큐장",
                     "isSelected": true
                   },
                   {
                     "id": "3f23ae37-98e6-4702-9f8a-3ea0d6986066",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1769562342939-k8uuu42umth.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "내부식당",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "7049e5f8-6e6f-47dc-b9f0-31891dc42635",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_gallery/1777336677969-7dqjnuzfdhl.jpg",
+                    "sortOrder": 4,
+                    "description": "야외수영장",
                     "isSelected": true
                   }
                 ],
