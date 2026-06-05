@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.32.0",
-    "generatedAt": "2026-05-18T05:56:13.584418404Z",
+    "version": "1.33.0",
+    "generatedAt": "2026-06-05T07:49:51.031272624Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -11,7 +11,7 @@
     "name": "경주 산마루",
     "description": "깔끔한 자쿠지 풀빌라 경주 산마루",
     "subtitle": "깔끔한 자쿠지 풀빌라 경주 산마루",
-    "address": "경상북도 경주시 양남면 동남로 584",
+    "address": "경북 경주시 양남면 동남로 584",
     "latitude": 35.6679440338676,
     "longitude": 129.398555315231,
     "contactPhone": "010-2942-3658",
@@ -690,9 +690,17 @@
                     "blockId": null
                   },
                   {
+                    "id": "bd5bb962-92d5-4925-aff6-8aebf60da306",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1780645781538-lovaxrtvqa.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "ae35acbc-75b3-481d-b9a4-91b5c3135e51",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-kgtvgy0ni7.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -700,7 +708,7 @@
                   {
                     "id": "aba26972-5701-4b95-8f16-a79a8b8b679c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-3dz5uo5pnw7.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -708,7 +716,7 @@
                   {
                     "id": "67f47af0-8864-4189-afa9-9d33c82324cb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-d8687cfkyuu.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -716,7 +724,7 @@
                   {
                     "id": "62235348-1de3-4b75-95d6-a746705364c4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-qub3vi6p8i.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -724,7 +732,15 @@
                   {
                     "id": "2da7a13d-f4dd-4690-a568-7a3bce54b43b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1769562342939-1y2zejpz2pc.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "a4dfaff0-5e11-43f1-adcc-f86a6391ebeb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/index_hero/1780645781650-50m6kv0hvy.jpg",
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -869,8 +885,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "f9e6708b-958a-4147-87ec-3002fb1a6502",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/main_hero/1769663484518-skkaybujhrs.jpg",
+                    "id": "08081a04-da8d-497d-ad13-2e21edae0587",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/main_hero/1780645781736-sjovvmrheg.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -969,8 +985,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "0d76055c-f181-401e-8044-3c086838f24c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/reservation_hero/1769562873976-2jgl7ndzb35.jpg",
+                    "id": "6b980b1b-5a3a-4fc6-8242-9913cc9007c0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/35a3d320-67d0-4bc2-bc67-455f5e310b8e/reservation_hero/1780645781539-bg873ajoo2.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -994,6 +1010,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "theme": {
