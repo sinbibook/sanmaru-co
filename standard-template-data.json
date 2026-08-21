@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.35.0",
-    "generatedAt": "2026-08-20T08:56:01.285270791Z",
+    "version": "1.36.0",
+    "generatedAt": "2026-08-21T06:15:22.121889004Z",
     "templateType": "full_banner_wipe",
     "propertyId": "12be12c5-1cc7-465c-bded-52c01506616b",
     "homepageId": "35a3d320-67d0-4bc2-bc67-455f5e310b8e"
@@ -19,7 +19,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n※ 얼리체크인 & 레이트체크아웃 불가합니다.",
-    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 저희 숙소는 경주 시내와 1시간이상 거리에 위치해 있습니다. 대중교통 이용 불가하며 자차로만 이용 가능합니다.\n- 반려동물 동반 입실 불가\n- 미니수영장(자쿠지), 수영장 이용시 물로 인해 미끄러울수 있으니 주의해주세요.\n- 개인의 부주의로 인한 사고는 책임지지 않습니다.\n- 객실내외 물품 파손 및 분실의 책임은 이용객에게 있으므로 주의해주세요.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n※ 얼리체크인 & 레이트체크아웃 불가합니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 24개월 미만 인원수에 포함\n※ 숙박외 방문객도 추가요금 발생 (1인당 10,000원)\n\n[개별바베큐]\n- 숯&불판 : 20,000원 (현장결제) \n※ 입실시 미리 사용 시간 말씀해주세요.\n\n[개별수영장]\n[실내 자쿠지(미니수영장)]\n- 온수 이용료 30,000원 (사전예약필수, 입실전까지), 7-8월 온수 무료\n- 온수 이용시간 : 입실 후 ~ 23:00\n※ 입욕제 사용 금지, 스파기능 없습니다.\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용\n\n[실내 자쿠지(미니수영장) 크기]\n- 101호 - 2m50cm(가로) x 1m70cm(세로) x 80cm(깊이)\n- 102호 - 2m60cm(가로) x 1m70cm(세로) x 80cm(깊이)\n- 201호 - 2m70cm(가로) x 1m60cm(세로) x 90cm(깊이)\n\n[야외수영장]\n- 201호 투숙객만 사용 가능\n- 하절기 운영 (설정된 기간만 운영)\n- 운영 기간: 2026년 7월 10일 ~ 9월 12일\n- 시간 제한은 없으나 늦은 시간 혹은 음주 후 사용은 금해주세요.\n- 이용 복장: 수영복 및 래쉬가드\n- 수영장은 냉수만 사용가능\n※ 다이빙 금지\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용\n\n[부대시설]\n[서비스]\n- 투숙객 1인당 카페 음료 1잔씩 무료 제공\n\n[펜션 내 식당]\n- 펜션 1층에 식당이 있습니다. (김밥, 국수 등 식사 판매)\n\n[편의 및 주변 시설]\n- IPTV/WiFi\n- OTT (개인계정)\n- 상비약\n\n[주변관광지]\n- 석굴암\n- 불국사\n- 경주문무대왕릉\n- 경주양남주상절리\n- 토함산자연휴양림\n\n[주차장]\n- 펜션 건물앞 주차장 이용가능\n※ 건물 앞 주차 공간 없을 경우 옆 건물 통나무집 앞 주차가능합니다.\n\n[교통편]\n- 울산 북구 매곡에서 경주양남방향으로 약 13-15분거리\n- 마우나 리조트에서 양남방향으로 약 6-7분거리\n- 마우나 눈썰매장에서 약 5-6분 거리\n- 경주 수렴방파제에서 약 11-15분 거리\n- 경주 문무대왕릉에서 약 30분 거리입니다",
+    "usageGuide": "[펜션 이용 안내 사항]\n- 저희 숙소는 경주 시내와 1시간이상 거리에 위치해 있습니다. 대중교통 이용 불가하며 자차로만 이용 가능합니다.\n- 반려동물 동반 입실 불가\n- 미니수영장(자쿠지), 수영장 이용시 물로 인해 미끄러울수 있으니 주의해주세요.\n- 개인의 부주의로 인한 사고는 책임지지 않습니다.\n- 객실내외 물품 파손 및 분실의 책임은 이용객에게 있으므로 주의해주세요.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n※ 얼리체크인 & 레이트체크아웃 불가합니다.\n\n[인원추가요금]\n※ 24개월 미만 인원수에 포함\n※ 숙박외 방문객도 추가요금 발생 (1인당 10,000원)\n\n[개별바베큐]\n- 이용 객실: 전객실 \n- 가스버너+불판 : 1회 10,000원(현장결제) \n- 숯+불판 : 1회 20,000원(현장결제)  \n※ 입실시 미리 사용 시간 말씀해주세요.\n\n[개별수영장]\n[실내 자쿠지(미니수영장)]\n- 온수 이용료 40,000원 (사전예약필수, 입실전까지), 7-8월 미온수 무료\n- 자쿠지 이용시간 : 입실 후 ~ 23:00\n※ 입욕제 사용 금지, 스파기능 없습니다.\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용\n\n[실내 자쿠지(미니수영장) 크기]\n- 101호 - 2m50cm(가로) x 1m70cm(세로) x 80cm(깊이)\n- 102호 - 2m60cm(가로) x 1m70cm(세로) x 80cm(깊이)\n- 201호 - 2m70cm(가로) x 1m60cm(세로) x 90cm(깊이)\n\n[야외수영장]\n- 201호 투숙객만 사용 가능\n- 하절기 운영 (설정된 기간만 운영)\n- 운영 기간: 2026년 7월 10일 ~ 9월 12일\n- 시간 제한은 없으나 늦은 시간 혹은 음주 후 사용은 금해주세요.\n- 이용 복장: 수영복 및 래쉬가드\n- 수영장은 냉수만 사용가능\n※ 다이빙 금지\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용\n\n[부대시설]\n[서비스]\n- 투숙객 1인당 카페 음료 1잔씩 무료 제공\n\n[펜션 내 식당]\n- 펜션 1층에 식당이 있습니다. (김밥, 국수 등 식사 판매)\n\n[편의 및 주변 시설]\n- IPTV/WiFi\n- OTT (개인계정)\n- 상비약\n\n[주변관광지]\n- 석굴암\n- 불국사\n- 경주문무대왕릉\n- 경주양남주상절리\n- 토함산자연휴양림\n\n[주차장]\n- 펜션 건물앞 주차장 이용가능\n※ 건물 앞 주차 공간 없을 경우 옆 건물 통나무집 앞 주차가능합니다.\n\n[교통편]\n- 울산 북구 매곡에서 경주양남방향으로 약 13-15분거리\n- 마우나 리조트에서 양남방향으로 약 6-7분거리\n- 마우나 눈썰매장에서 약 5-6분 거리\n- 경주 수렴방파제에서 약 11-15분 거리\n- 경주 문무대왕릉에서 약 30분 거리입니다",
     "reservationGuide": "[펜션 이용 안내 사항]\n- 저희 숙소는 경주 시내와 1시간이상 거리에 위치해 있습니다. 대중교통 이용 불가하며 자차로만 이용 가능합니다.\n- 반려동물 동반 입실 불가\n- 미니수영장(자쿠지), 수영장 이용시 물로 인해 미끄러울수 있으니 주의해주세요.\n- 개인의 부주의로 인한 사고는 책임지지 않습니다.\n- 객실내외 물품 파손 및 분실의 책임은 이용객에게 있으므로 주의해주세요.",
     "province": "경상북도",
     "city": "경주시",
@@ -68,7 +68,7 @@
         "id": "466d748e-3e2a-45d4-856e-1b0f89371244",
         "name": "실내 자쿠지(미니수영장)",
         "description": "객실 내 개별적으로 이용 가능한 자쿠지 수영장입니다.",
-        "usageGuide": "[실내 자쿠지(미니수영장)]\n- 온수 이용료 30,000원 (사전예약필수, 입실전까지), 7-8월 온수 무료\n- 온수 이용시간 : 입실 후 ~ 23:00\n- 실내 자쿠지(미니수영장) 크기 :\n > 101호 - 2m50cm(가로) x 1m70cm(세로) x 80cm(깊이)\n > 102호 - 2m60cm(가로) x 1m70cm(세로) x 80cm(깊이)\n > 201호 - 2m70cm(가로) x 1m60cm(세로) x 90cm(깊이)\n※ 입욕제 사용 금지, 스파기능 없습니다.\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용",
+        "usageGuide": "[실내 자쿠지(미니수영장)]\n- 온수 이용료 40,000원 (사전예약필수, 입실전까지), 7-8월 미온수 무료\n- 자쿠지 이용시간 : 입실 후 ~ 23:00\n- 실내 자쿠지(미니수영장) 크기 :\n > 101호 - 2m50cm(가로) x 1m70cm(세로) x 80cm(깊이)\n > 102호 - 2m60cm(가로) x 1m70cm(세로) x 80cm(깊이)\n > 201호 - 2m70cm(가로) x 1m60cm(세로) x 90cm(깊이)\n※ 입욕제 사용 금지, 스파기능 없습니다.\n※ 영유아 이용시 튜브나 구명조끼 꼭 착용",
         "displayOrder": 0,
         "images": [
           {
@@ -181,8 +181,8 @@
       {
         "id": "8c77e9cd-19aa-4fcc-95a0-f2608dd11d02",
         "name": "개별바베큐",
-        "description": "객실 테라스에서 즐기는 개별 바베큐 파티\n",
-        "usageGuide": "- 숯&불판 : 20,000원 (현장결제) \n※ 입실시 미리 사용 시간 말씀해주세요.",
+        "description": "객실 테라스에서 즐기는 개별 바베큐 파티",
+        "usageGuide": "- 이용 객실: 전객실 \n- 가스버너+불판 : 1회 10,000원(현장결제) \n- 숯+불판 : 1회 20,000원(현장결제)  \n※ 입실시 미리 사용 시간 말씀해주세요.",
         "displayOrder": 2,
         "images": [
           {
@@ -263,7 +263,7 @@
       {
         "id": "9f5adc9f-28c9-4038-b47f-1c9e9e513381",
         "name": "산마루 식당",
-        "description": "펜션 내 식당이 있습니다. ",
+        "description": "펜션 내 식당이 있습니다.",
         "usageGuide": "[펜션 내 식당]\n- 펜션 1층에 식당이 있습니다. (김밥, 국수 등 식사 판매)",
         "displayOrder": 4,
         "images": [
@@ -361,7 +361,7 @@
           {
             "id": "f1e910f3-cf0d-4f11-af1d-642ad3e4e51a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/uJzIAagQrpwO.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -371,7 +371,7 @@
           {
             "id": "b15aff06-abcf-4f58-801f-594d7c8fc6f3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/zymAhsKxaZ8O.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -379,7 +379,7 @@
           {
             "id": "9c0a168e-0cfa-451a-a426-d3ae5e67029b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/c9uUQXVzPgnh.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -387,7 +387,7 @@
           {
             "id": "d0abc378-3b29-4b6e-b8c1-51fbe5e1f8be",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/VjestGoY1yWp.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -395,7 +395,7 @@
           {
             "id": "810e557f-5893-4c7f-b4e7-963e9cc4a584",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/7mgEjWSIc4Os.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -403,7 +403,7 @@
           {
             "id": "48abe764-f7f4-45d2-9abe-8ece5ede07d6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/TaD1ImM73osx.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -411,7 +411,7 @@
           {
             "id": "1a639ac1-3d65-4e84-af25-ad9ce1130792",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/bpW5I2FyaU1l.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -419,7 +419,7 @@
           {
             "id": "b40753fb-d422-447d-a8fb-62cf9596c14a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/OIr1stQ4yzHg.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -427,7 +427,7 @@
           {
             "id": "0ee82da6-2b48-4462-b8ca-53123cf33b76",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/DTZlCR9LHMzn.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -435,7 +435,7 @@
           {
             "id": "1fe6e185-a470-4adf-a6a5-0bea752d5834",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/uA7BsT6kEOYe.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
